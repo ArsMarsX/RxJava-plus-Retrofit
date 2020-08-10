@@ -37,6 +37,9 @@ dependencies {
 
     //Retrofit
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.8.0' // for print LOGs
+    implementation 'com.ajts.androidmads.fontutils:fontutils:1.0.2'
+
     //Gson converter
     implementation 'com.squareup.retrofit2:converter-gson:2.7.0'
     //OkHttp
